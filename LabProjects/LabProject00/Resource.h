@@ -1,4 +1,5 @@
 ﻿//{{NO_DEPENDENCIES}}
+// 윈도우의 리소스(메뉴, 대화상자 등)의 ID를 정의하는 헤더 파일
 // Microsoft Visual C++에서 생성한 포함 파일입니다.
 // 다음에서 사용 LabProject00.rc
 
