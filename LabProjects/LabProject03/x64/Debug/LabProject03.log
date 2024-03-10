@@ -1,0 +1,3 @@
+﻿  LabProject02.cpp
+LabProject02.obj : error LNK2019: "public: __cdecl CGameFramework::~CGameFramework(void)" (??1CGameFramework@@QEAA@XZ)"void __cdecl `dynamic atexit destructor for 'gGameFramework''(void)" (??__FgGameFramework@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\3dGameProgramming\LabProjects\x64\Debug\LabProject02.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
